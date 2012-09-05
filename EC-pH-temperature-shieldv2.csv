@@ -1,0 +1,13 @@
+"Id";"Référence";"Boitier";"Quantité";"Désignation";"Fournisseur et réf.";
+1;"U2";"DIP-8__300_ELL";1;"TC1121";;;
+2;"C1,C2,C5,C6,C7,C8,C9,C10,C11,C12";"C1";10;"100nF";;;
+3;"SHIELD1";"ARDUINO_SHIELD_040pins";1;"ARDUINO_SHIELD";;;
+4;"C3,C4";"C1V7";2;"100uFx25V";;;
+5;"RV1";"RV2X4";1;"10k";;;
+6;"RV2";"RV2X4";1;"1M";;;
+7;"R1,R2,R4,R6,R7,R8,R9,R10,R11,R12";"R3";10;"10k";;;
+8;"R3";"R3";1;"100k";;;
+9;"P1,P2";"bornier2";2;"CONN_2";;;
+10;"R5";"R3";1;"40k";;;
+11;"C13";"C1";1;"10pF";;;
+12;"U1";"DIP-14__300_ELL";1;"TL074";;;

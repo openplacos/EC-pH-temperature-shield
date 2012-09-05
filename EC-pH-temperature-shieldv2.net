@@ -1,0 +1,484 @@
+# EESchema Netlist Version 1.1 created  ven. 31 août 2012 02:38:53 CEST
+(
+ ( /503EA972 $noname  R13 10k {Lib=R}
+  (    1 N-000044 )
+  (    2 GND )
+ )
+ ( /503E2DDE $noname  Temp1 Temp {Lib=CONN_3}
+  (    1 GND )
+  (    2 /Temp )
+  (    3 VCC )
+ )
+ ( /503CDE87 $noname  C15 100nF {Lib=C}
+  (    1 GND )
+  (    2 VSS )
+ )
+ ( /503CDE82 $noname  C10 100nF {Lib=C}
+  (    1 GND )
+  (    2 VCC )
+ )
+ ( /503CD833 $noname  C4 100nF {Lib=C}
+  (    1 N-000007 )
+  (    2 GND )
+ )
+ ( /503CD82E $noname  R4 1M {Lib=R}
+  (    1 N-000007 )
+  (    2 GND )
+ )
+ ( /503CD7EF $noname  D1 DIODE {Lib=DIODE}
+  (    1 N-000011 )
+  (    2 N-000007 )
+ )
+ ( /503CD74A $noname  U2 TL072 {Lib=TL072}
+  (    1 N-000002 )
+  (    2 N-000041 )
+  (    3 N-000036 )
+  (    4 VSS )
+  (    5 N-000042 )
+  (    6 N-000040 )
+  (    7 /VPH )
+  (    8 VCC )
+ )
+ ( /503CD746 $noname  U1 TL074 {Lib=TL074}
+  (    1 N-000004 )
+  (    2 N-000008 )
+  (    3 GND )
+  (    4 VCC )
+  (    5 N-000044 )
+  (    6 N-000001 )
+  (    7 N-000010 )
+  (    8 /VEC )
+  (    9 /VEC )
+  (   10 N-000007 )
+  (   11 VSS )
+  (   12 N-000010 )
+  (   13 /VEC )
+  (   14 N-000011 )
+ )
+ ( /502D085E $noname  EC1 EC {Lib=CONN_2}
+  (    1 GND )
+  (    2 N-000001 )
+ )
+ ( /502D0839 $noname  R5 10k {Lib=R}
+  (    1 N-000010 )
+  (    2 N-000001 )
+ )
+ ( /502D080A $noname  C2 100nF {Lib=C}
+  (    1 N-000044 )
+  (    2 N-000004 )
+ )
+ ( /502D07A5 $noname  C1 100nF {Lib=C}
+  (    1 N-000004 )
+  (    2 N-000008 )
+ )
+ ( /502D079E $noname  C3 100nF {Lib=C}
+  (    1 N-000045 )
+  (    2 GND )
+ )
+ ( /502D0796 $noname  R1 10k {Lib=R}
+  (    1 N-000004 )
+  (    2 N-000045 )
+ )
+ ( /502D0790 $noname  R3 10k {Lib=R}
+  (    1 N-000008 )
+  (    2 N-000045 )
+ )
+ ( /502D0786 $noname  R2 10k {Lib=R}
+  (    1 N-000045 )
+  (    2 /PWM )
+ )
+ ( /502CEFCC $noname  C8 100nF {Lib=C}
+  (    1 N-000042 )
+  (    2 GND )
+ )
+ ( /502CEFC6 $noname  C6 100nF {Lib=C}
+  (    1 N-000039 )
+  (    2 GND )
+ )
+ ( /502CEFB1 $noname  C5 100nF {Lib=C}
+  (    1 /VPH )
+  (    2 N-000040 )
+ )
+ ( /502CEF8B $noname  R6 100k {Lib=R}
+  (    1 /VPH )
+  (    2 N-000039 )
+ )
+ ( /502CEF85 $noname  R8 100k {Lib=R}
+  (    1 N-000040 )
+  (    2 N-000039 )
+ )
+ ( /502CEF7F $noname  R7 100k {Lib=R}
+  (    1 N-000039 )
+  (    2 N-000002 )
+ )
+ ( /502CEF76 $noname  R12 33k {Lib=R}
+  (    1 N-000042 )
+  (    2 GND )
+ )
+ ( /502CEF6D $noname  R10 100k {Lib=R}
+  (    1 VCC )
+  (    2 N-000042 )
+ )
+ ( /502BCB83 $noname  C7 100nF {Lib=C}
+  (    1 N-000002 )
+  (    2 N-000041 )
+ )
+ ( /502BCB4F $noname  R9 22k {Lib=R}
+  (    1 N-000041 )
+  (    2 GND )
+ )
+ ( /502BCAC6 $noname  R11 100k {Lib=R}
+  (    1 N-000002 )
+  (    2 N-000041 )
+ )
+ ( /502BC9E3 $noname  pH1 pH {Lib=CONN_2}
+  (    1 N-000036 )
+  (    2 GND )
+ )
+ ( /502BBF7D $noname  C12 100uFx25V {Lib=CP1}
+  (    1 GND )
+  (    2 VSS )
+ )
+ ( /502BBF60 $noname  C11 100uFx25V {Lib=CP1}
+  (    1 N-000038 )
+  (    2 N-000037 )
+ )
+ ( /502BBEA2 $noname  C13 100nF {Lib=C}
+  (    1 GND )
+  (    2 VSS )
+ )
+ ( /502BBE55 $noname  U3 TC1121 {Lib=TC1121}
+  (    1 ? )
+  (    2 N-000038 )
+  (    3 GND )
+  (    4 N-000037 )
+  (    5 VSS )
+  (    6 VCC )
+  (    7 ? )
+  (    8 VCC )
+ )
+ ( /502A84BB $noname  C14 100nF {Lib=C}
+  (    1 VSS )
+  (    2 GND )
+ )
+ ( /502A84B3 $noname  C9 100nF {Lib=C}
+  (    1 VCC )
+  (    2 GND )
+ )
+ ( /502A8256 $noname  SHIELD1 ARDUINO_SHIELD {Lib=ARDUINO_SHIELD}
+  (    0 ? )
+  (    1 ? )
+  (    2 /Temp )
+  (    3 /PWM )
+  (    4 ? )
+  (    5 ? )
+  (   5V VCC )
+  (    6 ? )
+  (    7 ? )
+  (    8 ? )
+  (    9 ? )
+  (   10 ? )
+  (   11 ? )
+  (   12 ? )
+  (   13 ? )
+  (  3V3 ? )
+  (  AD0 /VPH )
+  (  AD1 /VEC )
+  (  AD2 ? )
+  (  AD3 ? )
+  (  AD4 ? )
+  (  AD5 ? )
+  ( AREF ? )
+  ( GND1 GND )
+  ( GND2 GND )
+  ( GND3 GND )
+  (  RST ? )
+  ( V_IN ? )
+ )
+)
+*
+{ Allowed footprints by component:
+$component R13
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component C15
+ SM*
+ C?
+ C1-1
+$endlist
+$component C10
+ SM*
+ C?
+ C1-1
+$endlist
+$component C4
+ SM*
+ C?
+ C1-1
+$endlist
+$component R4
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component D1
+ D?
+ S*
+$endlist
+$component R5
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component C2
+ SM*
+ C?
+ C1-1
+$endlist
+$component C1
+ SM*
+ C?
+ C1-1
+$endlist
+$component C3
+ SM*
+ C?
+ C1-1
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R3
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component C8
+ SM*
+ C?
+ C1-1
+$endlist
+$component C6
+ SM*
+ C?
+ C1-1
+$endlist
+$component C5
+ SM*
+ C?
+ C1-1
+$endlist
+$component R6
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R8
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R7
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R12
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R10
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component C7
+ SM*
+ C?
+ C1-1
+$endlist
+$component R9
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component R11
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$component C12
+ CP*
+ SM*
+$endlist
+$component C11
+ CP*
+ SM*
+$endlist
+$component C13
+ SM*
+ C?
+ C1-1
+$endlist
+$component C14
+ SM*
+ C?
+ C1-1
+$endlist
+$component C9
+ SM*
+ C?
+ C1-1
+$endlist
+$endfootprintlist
+}
+{ Pin List by Nets
+Net 1 "" ""
+ EC1 2
+ R5 2
+ U1 6
+Net 2 "" ""
+ C7 1
+ R11 1
+ R7 2
+ U2 1
+Net 3 "VCC" "VCC"
+ U3 6
+ Temp1 3
+ U2 8
+ R10 1
+ C10 2
+ U1 4
+ C9 1
+ U3 8
+ SHIELD1 5V
+Net 4 "" ""
+ U1 1
+ C2 2
+ R1 1
+ C1 1
+Net 5 "/VPH" "VPH"
+ R6 1
+ C5 1
+ SHIELD1 AD0
+ U2 7
+Net 6 "GND" "GND"
+ U1 3
+ pH1 2
+ C9 2
+ C14 2
+ U3 3
+ R13 2
+ Temp1 1
+ C6 2
+ C4 2
+ R12 2
+ R9 2
+ R4 2
+ SHIELD1 GND1
+ SHIELD1 GND2
+ SHIELD1 GND3
+ EC1 1
+ C13 1
+ C12 1
+ C3 2
+ C10 1
+ C8 2
+ C15 1
+Net 7 "" ""
+ R4 1
+ D1 2
+ U1 10
+ C4 1
+Net 8 "" ""
+ C1 2
+ U1 2
+ R3 1
+Net 9 "/PWM" "PWM"
+ SHIELD1 3
+ R2 2
+Net 10 "" ""
+ U1 7
+ U1 12
+ R5 1
+Net 11 "" ""
+ U1 14
+ D1 1
+Net 12 "/VEC" "VEC"
+ U1 8
+ U1 9
+ SHIELD1 AD1
+ U1 13
+Net 34 "VSS" "VSS"
+ C12 2
+ C13 2
+ C14 1
+ U3 5
+ C15 2
+ U2 4
+ U1 11
+Net 36 "" ""
+ U2 3
+ pH1 1
+Net 37 "" ""
+ C11 2
+ U3 4
+Net 38 "" ""
+ C11 1
+ U3 2
+Net 39 "" ""
+ R6 2
+ C6 1
+ R8 2
+ R7 1
+Net 40 "" ""
+ C5 2
+ R8 1
+ U2 6
+Net 41 "" ""
+ C7 2
+ R9 1
+ U2 2
+ R11 2
+Net 42 "" ""
+ R12 1
+ C8 1
+ R10 2
+ U2 5
+Net 43 "/Temp" "Temp"
+ SHIELD1 2
+ Temp1 2
+Net 44 "" ""
+ R13 1
+ U1 5
+ C2 1
+Net 45 "" ""
+ R2 1
+ R3 2
+ R1 2
+ C3 1
+}
+#End

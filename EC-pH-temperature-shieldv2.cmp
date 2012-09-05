@@ -1,0 +1,255 @@
+Cmp-Mod V01 Created by CvPCB (2011-05-25)-stable date = jeu. 30 août 2012 16:05:19 CEST
+
+BeginCmp
+TimeStamp = /502D07A5;
+Reference = C1;
+ValeurCmp = 100nF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /502D080A;
+Reference = C2;
+ValeurCmp = 100nF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /502D079E;
+Reference = C3;
+ValeurCmp = 100nF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /503CD833;
+Reference = C4;
+ValeurCmp = 100nF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /502CEFB1;
+Reference = C5;
+ValeurCmp = 100nF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /502CEFC6;
+Reference = C6;
+ValeurCmp = 100nF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /502BCB83;
+Reference = C7;
+ValeurCmp = 100nF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /502CEFCC;
+Reference = C8;
+ValeurCmp = 100nF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /502A84B3;
+Reference = C9;
+ValeurCmp = 100nF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /503CDE82;
+Reference = C10;
+ValeurCmp = 100nF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /502BBF60;
+Reference = C11;
+ValeurCmp = 100uFx25V;
+IdModule  = C1V7;
+EndCmp
+
+BeginCmp
+TimeStamp = /502BBF7D;
+Reference = C12;
+ValeurCmp = 100uFx25V;
+IdModule  = C1V7;
+EndCmp
+
+BeginCmp
+TimeStamp = /502BBEA2;
+Reference = C13;
+ValeurCmp = 100nF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /502A84BB;
+Reference = C14;
+ValeurCmp = 100nF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /503CDE87;
+Reference = C15;
+ValeurCmp = 100nF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /503CD7EF;
+Reference = D1;
+ValeurCmp = DIODE;
+IdModule  = D3;
+EndCmp
+
+BeginCmp
+TimeStamp = /502D085E;
+Reference = EC1;
+ValeurCmp = EC;
+IdModule  = bornier2;
+EndCmp
+
+BeginCmp
+TimeStamp = /502BC9E3;
+Reference = pH1;
+ValeurCmp = pH;
+IdModule  = BNC_Socket_TYCO-AMP_RevA_Date21Jun2010;
+EndCmp
+
+BeginCmp
+TimeStamp = /502D0796;
+Reference = R1;
+ValeurCmp = 10k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /502D0786;
+Reference = R2;
+ValeurCmp = 10k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /502D0790;
+Reference = R3;
+ValeurCmp = 10k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /503CD82E;
+Reference = R4;
+ValeurCmp = 1M;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /502D0839;
+Reference = R5;
+ValeurCmp = 10k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /502CEF8B;
+Reference = R6;
+ValeurCmp = 100k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /502CEF7F;
+Reference = R7;
+ValeurCmp = 100k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /502CEF85;
+Reference = R8;
+ValeurCmp = 100k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /502BCB4F;
+Reference = R9;
+ValeurCmp = 22k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /502CEF6D;
+Reference = R10;
+ValeurCmp = 100k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /502BCAC6;
+Reference = R11;
+ValeurCmp = 100k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /502CEF76;
+Reference = R12;
+ValeurCmp = 33k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /503EA972;
+Reference = R13;
+ValeurCmp = 10k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /502A8256;
+Reference = SHIELD1;
+ValeurCmp = ARDUINO_SHIELD;
+IdModule  = ARDUINO_SHIELD_040pins;
+EndCmp
+
+BeginCmp
+TimeStamp = /503E2DDE;
+Reference = Temp1;
+ValeurCmp = Temp;
+IdModule  = bornier3;
+EndCmp
+
+BeginCmp
+TimeStamp = /503CD746;
+Reference = U1;
+ValeurCmp = TL074;
+IdModule  = DIP-14__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /503CD74A;
+Reference = U2;
+ValeurCmp = TL072;
+IdModule  = DIP-8__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /502BBE55;
+Reference = U3;
+ValeurCmp = TC1121;
+IdModule  = DIP-8__300_ELL;
+EndCmp
+
+EndListe

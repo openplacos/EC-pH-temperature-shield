@@ -1,0 +1,21 @@
+PCBNEW-LibDoc----V1  21.06.2010 23:23:05
+#
+$MODULE BNC_Socket_TYCO-AMP_RevA_Date21Jun2010
+Li BNC_Socket_TYCO-AMP_RevA_Date21Jun2010
+Cd BNC Socket TYCO AMP
+Kw BNC Socket TYCO AMP
+$EndMODULE
+#
+$MODULE BNC_Socket_TYCO-AMP_LargePads_RevA_Date21Jun2010
+Li BNC_Socket_TYCO-AMP_LargePads_RevA_Date21Jun2010
+Cd BNC Socket TYCO AMP
+Kw BNC Socket TYCO AMP
+$EndMODULE
+#
+$MODULE MH
+Li MH
+Cd Mounting hole, Befestigungsbohrung, 2,5mm, No Annular, Kein Restring,
+Kw Mounting hole, Befestigungsbohrung, 2,5mm, No Annular, Kein Restring,
+$EndMODULE
+#
+$EndLIBDOC

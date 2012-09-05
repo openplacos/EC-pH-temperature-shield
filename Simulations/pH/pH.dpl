@@ -1,0 +1,29 @@
+<Qucs Schematic 0.0.15>
+<Properties>
+  <View=-119,0,800,800,1,0,0>
+  <Grid=10,10,0>
+  <DataSet=pH.dat>
+  <DataDisplay=pH.sch>
+  <OpenDisplay=1>
+  <showFrame=0>
+  <FrameText0=Titre>
+  <FrameText1=Auteur :>
+  <FrameText2=Date :>
+  <FrameText3=Version :>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Rect 15 457 773 407 3 #c0c0c0 1 00 1 -0.4 0.05 0.4 1 -3 1 5.39105 1 -1 0.2 1 315 0 225 "" "" "">
+	<"Vout.V" #0000ff 0 3 0 0 0>
+	<"Vout2.V" #ff0000 0 3 0 0 0>
+	<"Vint.V" #ff00ff 0 3 0 0 0>
+	<"vint2.V" #00ff00 0 3 0 0 0>
+  </Rect>
+</Diagrams>
+<Paintings>
+</Paintings>
